@@ -1,0 +1,111 @@
+html{
+    font-family: ftltlt;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body{
+    height: 100%;
+    background-color: #f5f7fa;
+}
+
+header{
+    background-color: #7272DD;
+    color: white;
+    height: 50px
+    
+}
+
+li{
+    display: inline-block;
+}
+
+.hero1{
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding-left: 3%;
+    margin: 0;
+    padding-top: 25px;
+
+}
+
+.halloh1{
+    height: 50px;
+    
+    margin-bottom: 40px;
+    font-size: 60px
+}
+
+nav{
+   text-align: center;
+}
+
+.MobielenTV{
+    background-color: #f5f7fa;
+    margin-top: 50px;
+    margin-left: 0%;
+    padding-left: 3%;
+    padding-top: 20px;
+    width: 100%;
+    padding-bottom: 2%;
+}
+
+footer{
+    background-color: #7272DD;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+a{
+    color: white;
+}
+
+.Main{
+     background-color: black;
+     width: 100%;
+     margin: 0;
+     padding: 0;
+}
+
+.hero{
+
+}
+
+.Button{
+    margin-top: 1%;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+#Bekijkdeal{
+    background-color: black;
+    color: white;
+}
+
+#Ontdekmeer{
+    background-color: #9000ff;
+    color: white;
+}
+
+.bf{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+
+
+@font-face {
+        font-family: ftltlt;
+        src: url(fonts/ftltlt-webfont.woff2);
+    }
+
+
