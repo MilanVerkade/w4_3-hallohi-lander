@@ -5,6 +5,8 @@ html{
 * {
   margin: 0;
   padding: 0;
+  color: ##f5f7fa;
+  text-decoration: none;
 }
 
 
@@ -27,7 +29,7 @@ li{
 .hero1{
     background-color: black;
     color: white;
-    width: 100%;
+    width: 97%;
     padding-left: 3%;
     margin: 0;
     padding-top: 25px;
@@ -43,6 +45,7 @@ li{
 
 nav{
    text-align: center;
+   text-decoration: none;
 }
 
 .MobielenTV{
@@ -51,16 +54,25 @@ nav{
     margin-left: 0%;
     padding-left: 3%;
     padding-top: 20px;
-    width: 100%;
-    padding-bottom: 2%;
+    padding-bottom: 12%;
+    background-image: url(img/image-main-01.png);
+    background-size: 260px;
+    background-position: 70vh 15%;
+    background-repeat: no-repeat;
 }
 
 footer{
+    background-image: url(img/googleplay.png), url(img/appleappstore.png);
+    background-repeat: no-repeat, no-repeat;
     background-color: #7272DD;
+    background-position: 75% center, 88% center;
+    background-size: 170px, 140px;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
+    text-decoration: none;
+    height: 80px
     
 }
 
